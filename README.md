@@ -13,12 +13,7 @@ Desenvolver um site que se conecta a APIs financeiras públicas ou privadas para
 Este projeto está sendo desenvolvido de forma colaborativa por um grupo de três membros , utilizando práticas de metodologia ágil:
 
 - Scrum – para organização do projeto em sprints e reuniões de acompanhamento
-- Kanban – para o acompanhamento visual das tarefas em andamento, concluídas e pendentes
-
-## 📌 Funcionalidades (em desenvolvimento)
-- Interface responsiva e amigável para visualização de dados financeiros
-- Conexão com APIs para obter dados em tempo real sobre ações e índices
-- Visualização clara das variações de mercado
+- Kanban – para o acompanhamento visual das tarefas em andamento, concluídas e pendentes.
 
 ## 💡 Aprendizados
 - Primeiro contato prático com consumo de APIs
